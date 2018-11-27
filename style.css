@@ -40,30 +40,30 @@ section {
     }
 
     #e {
-        height: 240px;
-        width: 250px;
+        height: 250px;
+        width: 240px;
         float: left;
         box-sizing: border-box;
     }
 
     #f {
-        height: 240px;
-        width: 250px;
+        height: 250px;
+        width: 240px;
         box-sizing: border-box;
         display: inline-block;
     }
 
     #g{
-        height: 240px;
-        width: 250px;
+        height: 250px;
+        width: 240px;
         display: inline-block;
         box-sizing: border-box;
     }
 
     #h{
-        height: 240px;
-        width: 250px;
-        display: inline-block;
+        height: 250px;
+        width: 240px;
+        float: left;
         box-sizing: border-box;
     }
 
